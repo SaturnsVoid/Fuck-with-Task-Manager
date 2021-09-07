@@ -10,6 +10,9 @@ Using the Windows API to mess with Task Manager in GoLANG
  - Open Task Manager
  - Press Any Key
 
+# Image
+ ![Image](https://i.imgur.com/3W6XQyU.gif)
+
 # Other
 Go is a amazing and powerful programming language. If you already haven't, check it out; https://golang.org/
 
